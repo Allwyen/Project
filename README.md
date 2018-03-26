@@ -1,2 +1,3 @@
-# Project
-Vehicle Service Center Job Allocation System(VJAS)
+Vehicle Service Center Job Allocation System(VJAS) Project
+
+Vehicle service center job allocation system is a website developed based on jsp,html and mysql that helps the supervisors to efficiently allocate jobs to the staff. The project is about automating the workflow within the current existing system. The current system is that when a car comes for service a new job card is opened the supervisor has to manually collect the job card from the front desk and give it to the staff(worker).Once the work is completed again the supervisor has to manually go and note the finished time and check if completed.  The main aim of the project is that the supervisor of the car service center can efficiently allocate the jobs to the workers based on their skill set.The supervisor can add/delete any worker also he can reallocate work to other worker if needed. At last, the supervisor is able to generate reports. In case of workers, they can view the works allocated to them and start the work when they get notified.
