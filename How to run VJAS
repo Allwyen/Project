@@ -1,7 +1,15 @@
-<b>Pre-Requisites</b>
+Pre-Requisites
 1. XAMPP
 2. NetBeans
 3. Mysql Connector Library Inside NetBeans
 4. Sublime Text Editor
 
-<b>How to Run</b>
+How to Run
+1. Extract VJAS.rar
+2. Copy the VJAS Folder to the NetBeans Main Folder(where the NetBeans Projects are Created)
+3. Create a Databse in MySql called Vjas and add tables(check out the VJAS report to see the tables to be inserted)
+4. Afterwards run from the netbeans IDE
+
+
+
+Note: Main files are inside Extracted VJAS/Web/Project ----> where main files of the project are located.
